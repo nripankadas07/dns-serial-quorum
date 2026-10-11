@@ -1,0 +1,22 @@
+{
+  "expected": 0,
+  "required": 2,
+  "observations": [
+    {
+      "server": "ns1",
+      "serial": 0
+    },
+    {
+      "server": "ns2",
+      "serial": 4294967295
+    },
+    {
+      "server": "ns3",
+      "serial": 0
+    },
+    {
+      "server": "ns4",
+      "serial": null
+    }
+  ]
+}

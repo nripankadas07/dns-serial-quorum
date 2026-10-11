@@ -1,0 +1,18 @@
+[
+  {
+    "args": [
+      "example.json"
+    ],
+    "exit": 0,
+    "expect": {
+      "quorum_met": true,
+      "all_equal": false
+    }
+  },
+  {
+    "args": [
+      "invalid.txt"
+    ],
+    "exit": 2
+  }
+]
